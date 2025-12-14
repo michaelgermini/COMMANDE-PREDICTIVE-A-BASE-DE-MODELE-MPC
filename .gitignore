@@ -1,0 +1,77 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+*.swp
+*~
+.*.swp
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*_backup.*
+
+# Fichiers LaTeX (si générés)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Fichiers Python (si code généré)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Fichiers MATLAB
+*.asv
+*.m~
+
+# Fichiers de compilation
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de documentation générés
+*.pdf
+*.html
+*.epub
+
+# Fichiers de données (si présents)
+*.mat
+*.csv
+*.xlsx
+data/
+datasets/
+
+# Fichiers de configuration personnels
+.env
+config.local.*
+
+# Fichiers de cache
+.cache/
+*.cache
